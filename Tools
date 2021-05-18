@@ -3,7 +3,13 @@ This file is a listing of the hardware/software tools used to develop this code.
 Hardware:
   1. Synology NAS
     a. Use of personal Synology NAS to host back end/front end of software.
+      i. Follow guide here: https://github.com/StephanThierry/nodejs4synologynas on foreseeably using NodeJS for the server backend on NAS
+      ii. Follow guide here: https://www.synology.com/en-global/knowledgebase/DSM/help/WebStation/application_webserv_virtualhost for virtiualizing 
+          several hosts to manage multiple websites // Share with twitter raps bot
+      
 
 Software:
   1. Pytrends / https://pypi.org/project/pytrends/
     a. Pytrends is a python based API to Google Trends data.  
+  2. Google-Trends-API / https://www.npmjs.com/package/google-trends-api
+    a. A google trends API to be used with Node JS
