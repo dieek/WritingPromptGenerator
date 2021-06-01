@@ -1,1 +1,12 @@
 This file is to go over general method of operation for the Generator.
+
+1. Set up website that will ask the user for several inputs to help direct generation of prompt.
+  a. Inputs should not be necessary, but can be used to help create a more niche generation.
+  b. Inputs can be along the lines of
+    i. Fiction/non-fiction
+    ii. period/era specification
+    iii. genre - Horror/Adventure/Action/Comedy/etc.
+    iv. Location - Earth/Space/Underwater/etc.
+2. Input types are analyzed in terms of common words or themes associated with each type of input
+
+3. This is a little tougher than I thought.  Will come back at a later date to help fill in.
